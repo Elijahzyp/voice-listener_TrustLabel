@@ -2,7 +2,7 @@
 
 *Data as of January 31, 2024*
 
-*This page provides a detailed breakdown of the metrics discussed on the previous page.*
+*This page provides a detailed breakdown of the metrics discussed on the [previous page](https://github.com/Elijahzyp/voice-listener_TrustLabel/tree/master).*
 
 ## Community Activity and Integrity
 
