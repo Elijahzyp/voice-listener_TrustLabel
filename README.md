@@ -83,7 +83,7 @@ Security and scalability of the project’s code. Contributors can increase thes
 
 
 
-​																				[Metric Details]()
+​																				[Metric Details](https://github.com/Elijahzyp/voice-listener_TrustLabel/blob/master/Trust%20Percentiles%20Template%20Metric%20Details.md)
 
 
 
