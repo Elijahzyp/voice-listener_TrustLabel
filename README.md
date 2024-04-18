@@ -8,7 +8,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/nith
 -- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">11.1</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">11.08</span></strong> Percentile</summary>
 <div>
 <center><img src="./images/voice_listener/maintenance.png" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
