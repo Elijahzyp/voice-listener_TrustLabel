@@ -19,7 +19,7 @@ Activity and usage by this project’s consumers and contributors. More people u
   <tr>
     <td>
       <div>
-        <strong>Usage Popularity:</strong> Top 8.8 Percentile
+        <strong>Usage Popularity:</strong> Top 10.3 Percentile
         <p>How much consumers use this project: stars, watches, forks, downstream dependents.</p>
       </div>
       <div>
