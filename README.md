@@ -8,7 +8,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/nith
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">8.2</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">8.3</span></strong> Percentile</summary>
 <div>
 <div align=center>
   <img src="./images/voice_listener/community_activity_and_integrity_component.png" width="500px" height="180px">
