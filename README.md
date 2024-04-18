@@ -8,7 +8,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/nith
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">8.20</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">8.2</span></strong> Percentile</summary>
 <div>
 <div align=center>
   <img src="./images/voice_listener/community_activity_and_integrity_component.png" width="500px" height="180px">
@@ -43,7 +43,7 @@ Activity and usage by this project’s consumers and contributors. More people u
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Top <strong><span style="color: blue;">11.08</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Top <strong><span style="color: blue;">11.1</span></strong> Percentile</summary>
 <div>
 <div align=center>
   <img src="./images/voice_listener/maintenance_and_goodwill_component.png" width="500px" height="180px">
@@ -78,7 +78,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">9.70</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">9.7</span></strong> Percentile</summary>
 <div>
 <div align=center>
   <img src="./images/voice_listener/code_quality_component.png" width="500px" height="180px">
