@@ -11,7 +11,7 @@ This grade is based on the percentile rankings of the 3 trust component scores b
 <summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Beats <strong><span style="color: blue;">8.3%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/community_activity_and_integrity_component.png" width="500px" height="125px">
+  <img src="./images/voice_listener/community_activity_and_integrity_component.png" width="500px" height="170px">
 </div>
 Activity and usage by this project’s consumers and contributors. More people using and contributing to this project increases these metrics.<br><br>
 </div>
@@ -46,7 +46,7 @@ Activity and usage by this project’s consumers and contributors. More people u
 <summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Beats <strong><span style="color: blue;">11.1%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/maintenance_and_goodwill_component.png" width="500px" height="125px">
+  <img src="./images/voice_listener/maintenance_and_goodwill_component.png" width="500px" height="170px">
 </div>
 Activity and involvement by this project’s maintainer(s) for the benefit of the project community. Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div> 
@@ -81,7 +81,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">9.7%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/code_quality_component.png" width="500px" height="125px">
+  <img src="./images/voice_listener/code_quality_component.png" width="500px" height="170px">
 </div>
 Security and scalability of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div> 
