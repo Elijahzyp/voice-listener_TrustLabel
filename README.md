@@ -11,7 +11,7 @@ This grade is based on the percentile rankings of the 4 repo scores below, which
 <summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Beats <strong><span style="color: blue;">11.1%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/maintenance.png" width="500px" height="125px">
+  <img src="./images/voice_listener/maintenance.png" width="500px" height="170px">
 </div>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
@@ -46,7 +46,7 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Beats <strong><span style="color: blue;">7.6%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/contribution.png" width="500px" height="125px">
+  <img src="./images/voice_listener/contribution.png" width="500px" height="170px">
 </div>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
@@ -77,7 +77,7 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Beats <strong><span style="color: blue;">8.8%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/popularity.png" width="500px" height="125px">
+  <img src="./images/voice_listener/popularity.png" width="500px" height="170px">
 </div>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div> 
@@ -112,7 +112,7 @@ Activity and usage by this project’s consumers. Spreading this project to more
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">10.7%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/voice_listener/code_quality.png" width="500px" height="125px">
+  <img src="./images/voice_listener/code_quality.png" width="500px" height="170px">
 </div>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>  
